@@ -45,4 +45,4 @@ This project was developed using an RB Tree to store the text and two stacks to 
 
 ## Software used
 
-- Clion;
+- Clion
